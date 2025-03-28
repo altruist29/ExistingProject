@@ -1,9 +1,4 @@
 Cha gaye guru
 Chak de phatte
-<<<<<<< Updated upstream
-Delete hain jara
-=======
 Delete hain jara
 Sahi hai ye to
-O2, C02
->>>>>>> Stashed changes
